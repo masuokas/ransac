@@ -1,2 +1,2 @@
 # RANSAC
-RANSAC PHP Library with ellipse and equation classes
+RANSAC-based ellipse fitting library
