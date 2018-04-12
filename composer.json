@@ -1,11 +1,5 @@
 {
 	"name": "masuokas/RANSAC",
-	"repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/masuokas/RANSAC"
-        }
-    ],
 	"licence": "GNU Lesser General Public License v3.0",
 	"authors": [
 		{
@@ -15,6 +9,6 @@
 	],
 	"version": "1.0.0",	
     "require": {
-        "masuokas/RANSAC": "dev-master"
+        "monolog/monolog": "1.0.*"
     }
 }
