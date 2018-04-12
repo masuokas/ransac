@@ -1,5 +1,8 @@
 {
 	"name": "masuokas/RANSAC",
+	"description": "RANSAC-based ellipse fitting library",
+	"keywords": ["library", "RANSAC"],
+	"type": "library",
 	"licence": "GNU Lesser General Public License v3.0",
 	"authors": [
 		{
