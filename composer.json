@@ -10,7 +10,6 @@
 			"email": "msuoka89@gmail.com"
 		}
 	],
-	"version": "1.0.0",	
     "require": {
 		"php": "^5.3.3 || ^7.0",
         "monolog/monolog": "1.0.*"
