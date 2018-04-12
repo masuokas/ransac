@@ -1,5 +1,5 @@
 {
-	"name": "masuokas/RANSAC",
+	"name": "masuokas/ransac",
 	"description": "RANSAC-based ellipse fitting library",
 	"keywords": ["library", "RANSAC"],
 	"type": "library",
