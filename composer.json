@@ -6,12 +6,13 @@
             "url": "https://github.com/masuokas/RANSAC"
         }
     ],
-	"licence"; "GNU Lesser General Public License v3.0",
+	"licence": "GNU Lesser General Public License v3.0",
 	"authors": [
 		{
 			"name": "Matti Suokas",
 			"email": "msuoka89@gmail.com"
-		},
+		}
+	],
 	"version": "1.0.0".	
     "require": {
         "masuokas/RANSAC": "dev-master"
